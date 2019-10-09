@@ -1,0 +1,9 @@
+C:\Users\Samet\Desktop\PathSamples\PathSamples\bin\Debug\PathSamples.exe.config
+C:\Users\Samet\Desktop\PathSamples\PathSamples\bin\Debug\PathSamples.exe
+C:\Users\Samet\Desktop\PathSamples\PathSamples\bin\Debug\PathSamples.pdb
+C:\Users\Samet\Desktop\PathSamples\PathSamples\obj\Debug\PathSamples.exe
+C:\Users\Samet\Desktop\PathSamples\PathSamples\obj\Debug\PathSamples.pdb
+C:\Users\Samet\Desktop\PathSamples\PathSamples\obj\Debug\PathSamples.csprojResolveAssemblyReference.cache
+D:\işte yapılanlar\PathSamples\PathSamples\bin\Debug\PathSamples.exe.config
+D:\işte yapılanlar\PathSamples\PathSamples\obj\Debug\PathSamples.exe
+D:\işte yapılanlar\PathSamples\PathSamples\obj\Debug\PathSamples.pdb
